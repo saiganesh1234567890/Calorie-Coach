@@ -1,0 +1,10 @@
+-Create a web app for image recognition
+using Gemini API
+- Get data from Gemini to identify the food nutrition & calorie
+- Display to user using Python
+
+
+-Tools - 
+streamlit
+google-generativeai
+python-dotenv
